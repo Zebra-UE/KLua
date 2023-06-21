@@ -1,0 +1,8 @@
+
+*.vsidx
+*.lock
+.vs/KLua/v17/.suo
+*.bin
+.vs/KLua/v17/Browse.VC.db
+.vs/KLua/v17/Solution.VC.db
+.vsconfig
